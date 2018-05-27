@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 52c3bfea97f23d24eac6be47e26b3f36
+timeCreated: 1480728035
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint135
+    100004: joint136
+    100006: joint136 1
+    100008: joint137
+    100010: joint137 1
+    100012: joint138
+    100014: joint138 1
+    100016: joint139
+    100018: joint144
+    100020: polySurface154
+    100022: polySurface156
+    100024: polySurface157
+    400000: //RootNode
+    400002: joint135
+    400004: joint136
+    400006: joint136 1
+    400008: joint137
+    400010: joint137 1
+    400012: joint138
+    400014: joint138 1
+    400016: joint139
+    400018: joint144
+    400020: polySurface154
+    400022: polySurface156
+    400024: polySurface157
+    4300000: polySurface156
+    4300002: polySurface157
+    7400000: Mail@Open
+    9500000: //RootNode
+    13700000: polySurface156
+    13700002: polySurface157
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mail@Open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint139
+        weight: 1
+      - path: joint139/joint135
+        weight: 1
+      - path: joint139/joint135/joint136
+        weight: 1
+      - path: joint139/joint135/joint136/joint137
+        weight: 1
+      - path: joint139/joint135/joint136/joint137/joint138
+        weight: 1
+      - path: joint139/joint144
+        weight: 1
+      - path: joint139/joint144/joint136 1
+        weight: 1
+      - path: joint139/joint144/joint136 1/joint137 1
+        weight: 1
+      - path: joint139/joint144/joint136 1/joint137 1/joint138 1
+        weight: 1
+      - path: polySurface154
+        weight: 1
+      - path: polySurface154/polySurface156
+        weight: 1
+      - path: polySurface154/polySurface157
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

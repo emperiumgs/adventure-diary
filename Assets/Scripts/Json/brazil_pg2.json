@@ -1,0 +1,42 @@
+[
+	{ 
+		"question": "Antigamente quem fosse pego cantando ou dançando samba, corria o risco de ser preso.",
+		"rightAnswer": "Isso porque o samba era ligado a cultura mal vista na época. Só mais tarde que ele passou a ser encarado como um símbolo brasileiro, dando origem a diversos outros estilos.",
+		"valid": true
+	},
+	{ 
+		"question": "Capoeira é uma luta 100% brasileira e é a única arte marcial com trilha sonora.",
+		"rightAnswer": "Sim o ritmo da luta é ditado pelo instrumento músical berimbau e a letra das canções pode ser cantada no improviso.",
+		"valid": true
+	},
+	{ 
+		"question": "Foi um brasileiro que inventou o avião.",
+		"rightAnswer": "Foi um brasileiro o primeiro a decolar a bordo de um avião impulsionado por um motor.",
+		"valid": true
+	},
+	{ 
+		"question": "Pão de Açúcar é um morro localizado no Rio de janeiro e demorou 600 anos pra se formar.",
+		"rightAnswer": "Na verdade o Pão de Açúcar demorou 600 milhões de anos pra se formar. Por isso devemos preservar nossas belezas naturais.",
+		"valid": false
+	},
+	{ 
+		"question": "O Cristo Redentor é uma estátua com 28 metros de altura e pesando 1145 toneladas e é uma das 7 matavilhas do mundo.",
+		"rightAnswer": "O Cristo Redentor pesa o equivalente a 380 elefantes e foi eleito como uma das novas sete maravilhas do mundo.",
+		"valid": true
+	},
+	{ 
+		"question": "O Brasil sempre foi o país do futebol.",
+		"rightAnswer": "O futebol só chegou ao Brasil por volta de 1874 e veio da Inglaterra. Mas não podemos negar que temos a torcida mais apaixonada.",
+		"valid": false
+	},
+	{ 
+		"question": "Carnaval é de origem brasileira.",
+		"rightAnswer": "Veio da Europa. Em países como Itália, o carnaval ocorria em forma de desfiles, onde usavam máscaras e fantasias.",
+		"valid": false
+	},
+	{ 
+		"question": "Não acontecem desastres naturais como terremotos, furacões e tsunamis no Brasil.",
+		"rightAnswer": "Estamos livres de uma série de desastres naturais por conta da posição do Brasil no planeta Terra. Que sorte a nossa!",
+		"valid": true
+	}
+]

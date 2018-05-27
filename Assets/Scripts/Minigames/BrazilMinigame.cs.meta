@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e6a963b28349e0a49ac0f8815ba19940
+timeCreated: 1480874384
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - center: {instanceID: 0}
+  - ballShoot: {fileID: 8300000, guid: 85d4802b5a2571745b868e8aa67f0438, type: 3}
+  - ballRoll: {fileID: 8300000, guid: 0052af51f5d29c34ab1cc08112d5fd61, type: 3}
+  - ballCollide: {fileID: 8300000, guid: 9757a6e2c9ad5f5418fe67e1e7e64836, type: 3}
+  - ballEnd: {fileID: 8300000, guid: 68910cb2f5481cc44b6999bc2cc3c0bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

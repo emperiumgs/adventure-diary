@@ -1,0 +1,1229 @@
+fileFormatVersion: 2
+guid: 81ff1be65afadd445b315d7ae00c42ac
+timeCreated: 1480728395
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: save:curve1
+    100004: save:group36
+    100006: save:joint47
+    100008: save:joint48
+    100010: save:joint48 1
+    100012: save:joint49
+    100014: save:joint49 1
+    100016: save:joint50
+    100018: save:joint50 1
+    100020: save:joint51
+    100022: save:joint51 1
+    100024: save:joint53
+    100026: save:joint54
+    100028: save:joint55
+    100030: save:joint56
+    100032: save:joint58
+    100034: save:joint59
+    100036: save:joint60
+    100038: save:joint66
+    100040: save:joint72
+    100042: save:joint72 1
+    100044: save:joint75
+    100046: save:joint75 1
+    100048: save:joint78
+    100050: save:joint78 1
+    100052: save:joint80
+    100054: save:joint80 1
+    100056: save:joint81
+    100058: save:joint81 1
+    100060: save:joint84
+    100062: save:joint84 1
+    100064: save:joint85
+    100066: save:joint86
+    100068: save:joint86 1
+    100070: save:joint89
+    100072: save:L_Elbow
+    100074: save:L_Middle1
+    100076: save:L_Middle2
+    100078: save:L_Pinky1
+    100080: save:L_Pinky2
+    100082: save:L_Point2
+    100084: save:L_Ring1
+    100086: save:L_Ring2
+    100088: save:L_Shoulder
+    100090: save:L_Shoulder2
+    100092: save:L_Thumb1
+    100094: save:L_Thumb2
+    100096: save:L_Wrist
+    100098: save:nurbsCircle3
+    100100: save:pCube2
+    100102: save:pCube28
+    100104: save:pCube29
+    100106: save:polySurface109
+    100108: save:polySurface110
+    100110: save:polySurface111
+    100112: save:polySurface113
+    100114: save:polySurface117
+    100116: save:polySurface14
+    100118: save:polySurface15
+    100120: save:polySurface16
+    100122: save:polySurface17
+    100124: save:pPlane44
+    100126: save:pSphere8
+    100128: save:R_Elbow
+    100130: save:R_Middle1
+    100132: save:R_Middle2
+    100134: save:R_Pinky1
+    100136: save:R_Pinky2
+    100138: save:R_Point2
+    100140: save:R_Ring1
+    100142: save:R_Ring2
+    100144: save:R_Shoulder
+    100146: save:R_Shoulder2
+    100148: save:R_Thumb1
+    100150: save:R_Thumb2
+    100152: save:R_Wrist
+    100154: save:Root
+    100156: save:transform188
+    400000: //RootNode
+    400002: save:curve1
+    400004: save:group36
+    400006: save:joint47
+    400008: save:joint48
+    400010: save:joint48 1
+    400012: save:joint49
+    400014: save:joint49 1
+    400016: save:joint50
+    400018: save:joint50 1
+    400020: save:joint51
+    400022: save:joint51 1
+    400024: save:joint53
+    400026: save:joint54
+    400028: save:joint55
+    400030: save:joint56
+    400032: save:joint58
+    400034: save:joint59
+    400036: save:joint60
+    400038: save:joint66
+    400040: save:joint72
+    400042: save:joint72 1
+    400044: save:joint75
+    400046: save:joint75 1
+    400048: save:joint78
+    400050: save:joint78 1
+    400052: save:joint80
+    400054: save:joint80 1
+    400056: save:joint81
+    400058: save:joint81 1
+    400060: save:joint84
+    400062: save:joint84 1
+    400064: save:joint85
+    400066: save:joint86
+    400068: save:joint86 1
+    400070: save:joint89
+    400072: save:L_Elbow
+    400074: save:L_Middle1
+    400076: save:L_Middle2
+    400078: save:L_Pinky1
+    400080: save:L_Pinky2
+    400082: save:L_Point2
+    400084: save:L_Ring1
+    400086: save:L_Ring2
+    400088: save:L_Shoulder
+    400090: save:L_Shoulder2
+    400092: save:L_Thumb1
+    400094: save:L_Thumb2
+    400096: save:L_Wrist
+    400098: save:nurbsCircle3
+    400100: save:pCube2
+    400102: save:pCube28
+    400104: save:pCube29
+    400106: save:polySurface109
+    400108: save:polySurface110
+    400110: save:polySurface111
+    400112: save:polySurface113
+    400114: save:polySurface117
+    400116: save:polySurface14
+    400118: save:polySurface15
+    400120: save:polySurface16
+    400122: save:polySurface17
+    400124: save:pPlane44
+    400126: save:pSphere8
+    400128: save:R_Elbow
+    400130: save:R_Middle1
+    400132: save:R_Middle2
+    400134: save:R_Pinky1
+    400136: save:R_Pinky2
+    400138: save:R_Point2
+    400140: save:R_Ring1
+    400142: save:R_Ring2
+    400144: save:R_Shoulder
+    400146: save:R_Shoulder2
+    400148: save:R_Thumb1
+    400150: save:R_Thumb2
+    400152: save:R_Wrist
+    400154: save:Root
+    400156: save:transform188
+    4300000: save:pCube2
+    4300002: save:polySurface14
+    4300004: save:polySurface17
+    4300006: save:polySurface15
+    4300008: save:polySurface16
+    4300010: save:pCube28
+    4300012: save:pPlane44
+    4300014: save:polySurface109
+    4300016: save:polySurface110
+    4300018: save:polySurface111
+    4300020: save:polySurface113
+    4300022: save:polySurface117
+    7400000: Grandma_0@Walk
+    7400002: Grandma_0@Idle
+    7400004: Grandma_0@Sad
+    7400006: Grandma_0@Happy
+    7400008: Grandma_0@LookDown
+    9500000: //RootNode
+    13700000: save:pCube2
+    13700002: save:pCube28
+    13700004: save:polySurface109
+    13700006: save:polySurface110
+    13700008: save:polySurface111
+    13700010: save:polySurface113
+    13700012: save:polySurface117
+    13700014: save:polySurface14
+    13700016: save:polySurface15
+    13700018: save:polySurface16
+    13700020: save:polySurface17
+    13700022: save:pPlane44
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Grandma_0@Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: save:group36
+        weight: 1
+      - path: save:group36/save:pCube2
+        weight: 1
+      - path: save:group36/save:pCube28
+        weight: 1
+      - path: save:group36/save:polySurface14
+        weight: 1
+      - path: save:group36/save:polySurface15
+        weight: 1
+      - path: save:group36/save:polySurface16
+        weight: 1
+      - path: save:group36/save:polySurface17
+        weight: 1
+      - path: save:nurbsCircle3
+        weight: 1
+      - path: save:nurbsCircle3/save:curve1
+        weight: 1
+      - path: save:pCube29
+        weight: 1
+      - path: save:pCube29/save:polySurface113
+        weight: 1
+      - path: save:pCube29/save:transform188
+        weight: 1
+      - path: save:polySurface117
+        weight: 1
+      - path: save:pPlane44
+        weight: 1
+      - path: save:pSphere8
+        weight: 1
+      - path: save:pSphere8/save:polySurface109
+        weight: 1
+      - path: save:pSphere8/save:polySurface110
+        weight: 1
+      - path: save:pSphere8/save:polySurface111
+        weight: 1
+      - path: save:Root
+        weight: 1
+      - path: save:Root/save:joint47
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50/save:joint51
+        weight: 1
+      - path: save:Root/save:joint53
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint60
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85/save:joint86
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89/save:joint86
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1/save:joint78
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1/save:joint72
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80/save:joint81
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1/save:joint75
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1/save:joint84
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1/save:joint78
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1/save:joint72
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1/save:joint81 1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1/save:joint75
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1/save:joint84
+          1
+        weight: 1
+      - path: save:Root/save:joint66
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1/save:joint51
+          1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Grandma_0@Idle
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: save:group36
+        weight: 1
+      - path: save:group36/save:pCube2
+        weight: 1
+      - path: save:group36/save:pCube28
+        weight: 1
+      - path: save:group36/save:polySurface14
+        weight: 1
+      - path: save:group36/save:polySurface15
+        weight: 1
+      - path: save:group36/save:polySurface16
+        weight: 1
+      - path: save:group36/save:polySurface17
+        weight: 1
+      - path: save:nurbsCircle3
+        weight: 1
+      - path: save:nurbsCircle3/save:curve1
+        weight: 1
+      - path: save:pCube29
+        weight: 1
+      - path: save:pCube29/save:polySurface113
+        weight: 1
+      - path: save:pCube29/save:transform188
+        weight: 1
+      - path: save:polySurface117
+        weight: 1
+      - path: save:pPlane44
+        weight: 1
+      - path: save:pSphere8
+        weight: 1
+      - path: save:pSphere8/save:polySurface109
+        weight: 1
+      - path: save:pSphere8/save:polySurface110
+        weight: 1
+      - path: save:pSphere8/save:polySurface111
+        weight: 1
+      - path: save:Root
+        weight: 1
+      - path: save:Root/save:joint47
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50/save:joint51
+        weight: 1
+      - path: save:Root/save:joint53
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint60
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85/save:joint86
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89/save:joint86
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1/save:joint78
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1/save:joint72
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80/save:joint81
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1/save:joint75
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1/save:joint84
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1/save:joint78
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1/save:joint72
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1/save:joint81 1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1/save:joint75
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1/save:joint84
+          1
+        weight: 1
+      - path: save:Root/save:joint66
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1/save:joint51
+          1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Grandma_0@Sad
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: save:group36
+        weight: 1
+      - path: save:group36/save:pCube2
+        weight: 1
+      - path: save:group36/save:pCube28
+        weight: 1
+      - path: save:group36/save:polySurface14
+        weight: 1
+      - path: save:group36/save:polySurface15
+        weight: 1
+      - path: save:group36/save:polySurface16
+        weight: 1
+      - path: save:group36/save:polySurface17
+        weight: 1
+      - path: save:nurbsCircle3
+        weight: 1
+      - path: save:nurbsCircle3/save:curve1
+        weight: 1
+      - path: save:pCube29
+        weight: 1
+      - path: save:pCube29/save:polySurface113
+        weight: 1
+      - path: save:pCube29/save:transform188
+        weight: 1
+      - path: save:polySurface117
+        weight: 1
+      - path: save:pPlane44
+        weight: 1
+      - path: save:pSphere8
+        weight: 1
+      - path: save:pSphere8/save:polySurface109
+        weight: 1
+      - path: save:pSphere8/save:polySurface110
+        weight: 1
+      - path: save:pSphere8/save:polySurface111
+        weight: 1
+      - path: save:Root
+        weight: 1
+      - path: save:Root/save:joint47
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50/save:joint51
+        weight: 1
+      - path: save:Root/save:joint53
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint60
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85/save:joint86
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89/save:joint86
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1/save:joint78
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1/save:joint72
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80/save:joint81
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1/save:joint75
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1/save:joint84
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1/save:joint78
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1/save:joint72
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1/save:joint81 1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1/save:joint75
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1/save:joint84
+          1
+        weight: 1
+      - path: save:Root/save:joint66
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1/save:joint51
+          1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Grandma_0@Happy
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: save:group36
+        weight: 1
+      - path: save:group36/save:pCube2
+        weight: 1
+      - path: save:group36/save:pCube28
+        weight: 1
+      - path: save:group36/save:polySurface14
+        weight: 1
+      - path: save:group36/save:polySurface15
+        weight: 1
+      - path: save:group36/save:polySurface16
+        weight: 1
+      - path: save:group36/save:polySurface17
+        weight: 1
+      - path: save:nurbsCircle3
+        weight: 1
+      - path: save:nurbsCircle3/save:curve1
+        weight: 1
+      - path: save:pCube29
+        weight: 1
+      - path: save:pCube29/save:polySurface113
+        weight: 1
+      - path: save:pCube29/save:transform188
+        weight: 1
+      - path: save:polySurface117
+        weight: 1
+      - path: save:pPlane44
+        weight: 1
+      - path: save:pSphere8
+        weight: 1
+      - path: save:pSphere8/save:polySurface109
+        weight: 1
+      - path: save:pSphere8/save:polySurface110
+        weight: 1
+      - path: save:pSphere8/save:polySurface111
+        weight: 1
+      - path: save:Root
+        weight: 1
+      - path: save:Root/save:joint47
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50/save:joint51
+        weight: 1
+      - path: save:Root/save:joint53
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint60
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85/save:joint86
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89/save:joint86
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1/save:joint78
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1/save:joint72
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80/save:joint81
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1/save:joint75
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1/save:joint84
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1/save:joint78
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1/save:joint72
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1/save:joint81 1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1/save:joint75
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1/save:joint84
+          1
+        weight: 1
+      - path: save:Root/save:joint66
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1/save:joint51
+          1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Grandma_0@LookDown
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: save:group36
+        weight: 1
+      - path: save:group36/save:pCube2
+        weight: 1
+      - path: save:group36/save:pCube28
+        weight: 1
+      - path: save:group36/save:polySurface14
+        weight: 1
+      - path: save:group36/save:polySurface15
+        weight: 1
+      - path: save:group36/save:polySurface16
+        weight: 1
+      - path: save:group36/save:polySurface17
+        weight: 1
+      - path: save:nurbsCircle3
+        weight: 1
+      - path: save:nurbsCircle3/save:curve1
+        weight: 1
+      - path: save:pCube29
+        weight: 1
+      - path: save:pCube29/save:polySurface113
+        weight: 1
+      - path: save:pCube29/save:transform188
+        weight: 1
+      - path: save:polySurface117
+        weight: 1
+      - path: save:pPlane44
+        weight: 1
+      - path: save:pSphere8
+        weight: 1
+      - path: save:pSphere8/save:polySurface109
+        weight: 1
+      - path: save:pSphere8/save:polySurface110
+        weight: 1
+      - path: save:pSphere8/save:polySurface111
+        weight: 1
+      - path: save:Root
+        weight: 1
+      - path: save:Root/save:joint47
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50
+        weight: 1
+      - path: save:Root/save:joint47/save:joint48/save:joint49/save:joint50/save:joint51
+        weight: 1
+      - path: save:Root/save:joint53
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint60
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint85/save:joint86
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:joint56/save:joint58/save:joint59/save:joint89/save:joint86
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Middle2/save:L_Middle1/save:joint78
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Pinky2/save:L_Pinky1/save:joint72
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Point2/save:joint80/save:joint81
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Ring2/save:L_Ring1/save:joint75
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:L_Shoulder2/save:L_Shoulder/save:L_Elbow/save:L_Wrist/save:L_Thumb2/save:L_Thumb1/save:joint84
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Middle2/save:R_Middle1/save:joint78
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Pinky2/save:R_Pinky1/save:joint72
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Point2/save:joint80
+          1/save:joint81 1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Ring2/save:R_Ring1/save:joint75
+          1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1
+        weight: 1
+      - path: save:Root/save:joint53/save:joint54/save:joint55/save:R_Shoulder2/save:R_Shoulder/save:R_Elbow/save:R_Wrist/save:R_Thumb2/save:R_Thumb1/save:joint84
+          1
+        weight: 1
+      - path: save:Root/save:joint66
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1
+        weight: 1
+      - path: save:Root/save:joint66/save:joint48 1/save:joint49 1/save:joint50 1/save:joint51
+          1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

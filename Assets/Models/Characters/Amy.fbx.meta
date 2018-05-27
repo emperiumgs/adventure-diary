@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 975b4501fd53fcb4d9af4123223d05e5
+timeCreated: 1480728434
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: REFERENCEAMY:curve1
+    100004: REFERENCEAMY:group36
+    100006: REFERENCEAMY:joint47
+    100008: REFERENCEAMY:joint48
+    100010: REFERENCEAMY:joint48 1
+    100012: REFERENCEAMY:joint49
+    100014: REFERENCEAMY:joint49 1
+    100016: REFERENCEAMY:joint50
+    100018: REFERENCEAMY:joint50 1
+    100020: REFERENCEAMY:joint51
+    100022: REFERENCEAMY:joint51 1
+    100024: REFERENCEAMY:joint53
+    100026: REFERENCEAMY:joint54
+    100028: REFERENCEAMY:joint55
+    100030: REFERENCEAMY:joint56
+    100032: REFERENCEAMY:joint58
+    100034: REFERENCEAMY:joint59
+    100036: REFERENCEAMY:joint60
+    100038: REFERENCEAMY:joint66
+    100040: REFERENCEAMY:joint72
+    100042: REFERENCEAMY:joint72 1
+    100044: REFERENCEAMY:joint75
+    100046: REFERENCEAMY:joint75 1
+    100048: REFERENCEAMY:joint78
+    100050: REFERENCEAMY:joint78 1
+    100052: REFERENCEAMY:joint80
+    100054: REFERENCEAMY:joint80 1
+    100056: REFERENCEAMY:joint81
+    100058: REFERENCEAMY:joint81 1
+    100060: REFERENCEAMY:joint84
+    100062: REFERENCEAMY:joint84 1
+    100064: REFERENCEAMY:joint85
+    100066: REFERENCEAMY:joint86
+    100068: REFERENCEAMY:joint86 1
+    100070: REFERENCEAMY:joint89
+    100072: REFERENCEAMY:L_Elbow
+    100074: REFERENCEAMY:L_Middle1
+    100076: REFERENCEAMY:L_Middle2
+    100078: REFERENCEAMY:L_Pinky1
+    100080: REFERENCEAMY:L_Pinky2
+    100082: REFERENCEAMY:L_Point2
+    100084: REFERENCEAMY:L_Ring1
+    100086: REFERENCEAMY:L_Ring2
+    100088: REFERENCEAMY:L_Shoulder
+    100090: REFERENCEAMY:L_Shoulder2
+    100092: REFERENCEAMY:L_Thumb1
+    100094: REFERENCEAMY:L_Thumb2
+    100096: REFERENCEAMY:L_Wrist
+    100098: REFERENCEAMY:nurbsCircle3
+    100100: REFERENCEAMY:pCube22
+    100102: REFERENCEAMY:pCube24
+    100104: REFERENCEAMY:pCube25
+    100106: REFERENCEAMY:pCube27
+    100108: REFERENCEAMY:polySurface109
+    100110: REFERENCEAMY:polySurface110
+    100112: REFERENCEAMY:polySurface111
+    100114: REFERENCEAMY:polySurface112
+    100116: REFERENCEAMY:polySurface113
+    100118: REFERENCEAMY:polySurface15
+    100120: REFERENCEAMY:polySurface16
+    100122: REFERENCEAMY:polySurface20
+    100124: REFERENCEAMY:polySurface27
+    100126: REFERENCEAMY:pPlane27
+    100128: REFERENCEAMY:pPlane44
+    100130: REFERENCEAMY:pPlane89
+    100132: REFERENCEAMY:pSphere8
+    100134: REFERENCEAMY:R_Elbow
+    100136: REFERENCEAMY:R_Middle1
+    100138: REFERENCEAMY:R_Middle2
+    100140: REFERENCEAMY:R_Pinky1
+    100142: REFERENCEAMY:R_Pinky2
+    100144: REFERENCEAMY:R_Point2
+    100146: REFERENCEAMY:R_Ring1
+    100148: REFERENCEAMY:R_Ring2
+    100150: REFERENCEAMY:R_Shoulder
+    100152: REFERENCEAMY:R_Shoulder2
+    100154: REFERENCEAMY:R_Thumb1
+    100156: REFERENCEAMY:R_Thumb2
+    100158: REFERENCEAMY:R_Wrist
+    100160: REFERENCEAMY:Root
+    100162: REFERENCEAMY:roupa
+    100164: REFERENCEAMY:transform17
+    100166: REFERENCEAMY:transform18
+    100168: REFERENCEAMY:transform187
+    100170: REFERENCEAMY:transform2
+    400000: //RootNode
+    400002: REFERENCEAMY:curve1
+    400004: REFERENCEAMY:group36
+    400006: REFERENCEAMY:joint47
+    400008: REFERENCEAMY:joint48
+    400010: REFERENCEAMY:joint48 1
+    400012: REFERENCEAMY:joint49
+    400014: REFERENCEAMY:joint49 1
+    400016: REFERENCEAMY:joint50
+    400018: REFERENCEAMY:joint50 1
+    400020: REFERENCEAMY:joint51
+    400022: REFERENCEAMY:joint51 1
+    400024: REFERENCEAMY:joint53
+    400026: REFERENCEAMY:joint54
+    400028: REFERENCEAMY:joint55
+    400030: REFERENCEAMY:joint56
+    400032: REFERENCEAMY:joint58
+    400034: REFERENCEAMY:joint59
+    400036: REFERENCEAMY:joint60
+    400038: REFERENCEAMY:joint66
+    400040: REFERENCEAMY:joint72
+    400042: REFERENCEAMY:joint72 1
+    400044: REFERENCEAMY:joint75
+    400046: REFERENCEAMY:joint75 1
+    400048: REFERENCEAMY:joint78
+    400050: REFERENCEAMY:joint78 1
+    400052: REFERENCEAMY:joint80
+    400054: REFERENCEAMY:joint80 1
+    400056: REFERENCEAMY:joint81
+    400058: REFERENCEAMY:joint81 1
+    400060: REFERENCEAMY:joint84
+    400062: REFERENCEAMY:joint84 1
+    400064: REFERENCEAMY:joint85
+    400066: REFERENCEAMY:joint86
+    400068: REFERENCEAMY:joint86 1
+    400070: REFERENCEAMY:joint89
+    400072: REFERENCEAMY:L_Elbow
+    400074: REFERENCEAMY:L_Middle1
+    400076: REFERENCEAMY:L_Middle2
+    400078: REFERENCEAMY:L_Pinky1
+    400080: REFERENCEAMY:L_Pinky2
+    400082: REFERENCEAMY:L_Point2
+    400084: REFERENCEAMY:L_Ring1
+    400086: REFERENCEAMY:L_Ring2
+    400088: REFERENCEAMY:L_Shoulder
+    400090: REFERENCEAMY:L_Shoulder2
+    400092: REFERENCEAMY:L_Thumb1
+    400094: REFERENCEAMY:L_Thumb2
+    400096: REFERENCEAMY:L_Wrist
+    400098: REFERENCEAMY:nurbsCircle3
+    400100: REFERENCEAMY:pCube22
+    400102: REFERENCEAMY:pCube24
+    400104: REFERENCEAMY:pCube25
+    400106: REFERENCEAMY:pCube27
+    400108: REFERENCEAMY:polySurface109
+    400110: REFERENCEAMY:polySurface110
+    400112: REFERENCEAMY:polySurface111
+    400114: REFERENCEAMY:polySurface112
+    400116: REFERENCEAMY:polySurface113
+    400118: REFERENCEAMY:polySurface15
+    400120: REFERENCEAMY:polySurface16
+    400122: REFERENCEAMY:polySurface20
+    400124: REFERENCEAMY:polySurface27
+    400126: REFERENCEAMY:pPlane27
+    400128: REFERENCEAMY:pPlane44
+    400130: REFERENCEAMY:pPlane89
+    400132: REFERENCEAMY:pSphere8
+    400134: REFERENCEAMY:R_Elbow
+    400136: REFERENCEAMY:R_Middle1
+    400138: REFERENCEAMY:R_Middle2
+    400140: REFERENCEAMY:R_Pinky1
+    400142: REFERENCEAMY:R_Pinky2
+    400144: REFERENCEAMY:R_Point2
+    400146: REFERENCEAMY:R_Ring1
+    400148: REFERENCEAMY:R_Ring2
+    400150: REFERENCEAMY:R_Shoulder
+    400152: REFERENCEAMY:R_Shoulder2
+    400154: REFERENCEAMY:R_Thumb1
+    400156: REFERENCEAMY:R_Thumb2
+    400158: REFERENCEAMY:R_Wrist
+    400160: REFERENCEAMY:Root
+    400162: REFERENCEAMY:roupa
+    400164: REFERENCEAMY:transform17
+    400166: REFERENCEAMY:transform18
+    400168: REFERENCEAMY:transform187
+    400170: REFERENCEAMY:transform2
+    4300000: REFERENCEAMY:polySurface15
+    4300002: REFERENCEAMY:polySurface16
+    4300004: REFERENCEAMY:pCube25
+    4300006: REFERENCEAMY:pPlane27
+    4300008: REFERENCEAMY:roupa
+    4300010: REFERENCEAMY:pCube27
+    4300012: REFERENCEAMY:pPlane44
+    4300014: REFERENCEAMY:polySurface109
+    4300016: REFERENCEAMY:polySurface110
+    4300018: REFERENCEAMY:polySurface27
+    4300020: REFERENCEAMY:polySurface112
+    4300022: REFERENCEAMY:pPlane89
+    4300024: REFERENCEAMY:polySurface113
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: REFERENCEAMY:pCube25
+    13700002: REFERENCEAMY:pCube27
+    13700004: REFERENCEAMY:polySurface109
+    13700006: REFERENCEAMY:polySurface110
+    13700008: REFERENCEAMY:polySurface112
+    13700010: REFERENCEAMY:polySurface113
+    13700012: REFERENCEAMY:polySurface15
+    13700014: REFERENCEAMY:polySurface16
+    13700016: REFERENCEAMY:polySurface27
+    13700018: REFERENCEAMY:pPlane27
+    13700020: REFERENCEAMY:pPlane44
+    13700022: REFERENCEAMY:pPlane89
+    13700024: REFERENCEAMY:roupa
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

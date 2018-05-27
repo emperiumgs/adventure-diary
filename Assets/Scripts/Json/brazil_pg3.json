@@ -1,0 +1,27 @@
+[
+	{ 
+		"question": "Ainda existem indígenas no Brasil.",
+		"rightAnswer": "Atualmente temos uma média de 450mil indígenas no Brasil. Com direito a Olimpiadas Indígenas!",
+		"valid": true
+	},
+	{ 
+		"question": "O Brasil é considerado o país da diversidade.",
+		"rightAnswer": "Por sua vasta extensão territorial e colonização, o Brasil é um país com grande diversidade. Toda esso mistura enriquece nossa cultura, nos transformando no país de maior diversidade. Por causa disso não devemos dar espaço para discriminação.",
+		"valid": true
+	},
+	{ 
+		"question": "Nenhum brasileiro foi ao espaço.",
+		"rightAnswer": "Em 2006 tivemos o primeiro astronauta brasileiro a ir para o espaço. Está vendo, tudo é possível.",
+		"valid": false
+	},
+	{ 
+		"question": "Brasil é considerado o país mais carinhoso.",
+		"rightAnswer": "Os brasileiros são considerados extremamente carinhosos pelos extrangeiros, por demonstrar muito carinho em público, como abraçar e beijar. Fazer o que, somos um país com muito amor.",
+		"valid": true
+	},
+	{ 
+		"question": "O Brasil possui a maior biodiversidade do planeta.",
+		"rightAnswer": "O brasil possui mais de 20% do número total de espécies na Terra. Por isso temos que cuidar bem dos nossos animais e plantas.",
+		"valid": true
+	}
+]

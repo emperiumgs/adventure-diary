@@ -1,0 +1,42 @@
+[
+	{ 
+		"question": "Descobriram o Brasil por engano. Naquela época estavam procurando as Índias usando um caminho diferente. Sem querer chegaram ao Brasil e sem perceber o erro chamaram os moradores de índios.",
+		"rightAnswer": "Já corriam noticias de descobertas de terras ao norte. Os mapas indicavam que havia terras a serem exploradas, e elas não tinham nada a ver com as Índias.",
+		"valid": false
+	},
+	{ 
+		"question": "Coco e banana são frutas originais brasileiras. Ilustrações e pinturas mostram um litoral com praias azuis, de areias brancas, cheia de coqueiros. A banana era uma fruta muito consumida pelos índios. ",
+		"rightAnswer": "O coco e a banana vieram com os descobridores. Os nativos se alimentavam do que caçavam e de amendoim. Aliás, muitas frutas que dizemos ser nossas, foram trazidas por colonizadores ao longo do tempo - entre elas, a jaca, a manga e o abacate.",
+		"valid": false
+	},
+	{ 
+		"question": "A feijoada foi criada no Brasil. Juntanto os restos do porco como rabo, nariz e orelha com feijão. Um prato improvisado, que hoje é a cara do Brasil.",
+		"rightAnswer": "A feijoada é uma invenção europeia. Os ensopados, aliás, são uma tradição na Europa. Os ingleses comem um feito de carne e batata. Os portugueses simplesmente incorporaram o feijão a um prato já tradicional, de carne com legumes",
+		"valid": false
+	},
+	{ 
+		"question": "O rio Amazonas é o rio mais extenso do mundo!",
+		"rightAnswer": "Ao contrário do que se propaga por aí, o Rio Amazonas é o mais extenso do mundo, não o Nilo. O Amazonas supera o Nilo em 140 quilômetros.",
+		"valid": true
+	},
+	{ 
+		"question": "Mensagens demoravam semanas, se não meses para serem entregues. ",
+		"rightAnswer": "Antigamente não existia internet, e muito menos whatassp e facebook. As mensagens eram entregues por meio de cartas, escritas a mão, que tinham que viajar por um vasto caminho.",
+		"valid": true
+	},
+	{ 
+		"question": "Os descobridores do Brasil, relatavam aldeias com até 100 indígenas.",
+		"rightAnswer": "Diferente do que vemos em pinturas e filmes, as aldeias pareciam verdadeiras cidades, abrigando até 2 mil indígenas.",
+		"valid": false
+	},
+	{ 
+		"question": "Abacaxi, mandioca e amendoim são de origem brasileira.",
+		"rightAnswer": "As palavras são de origem tupi-guarani, tribo indigina brasileira.",
+		"valid": true
+	},
+	{ 
+		"question": "O rio Amazonas já fluiu ao contrário!",
+		"rightAnswer": "Por incrível que pareça, sim, isso está correto, O Rio Amazonas, já fluiu no sentido contrário.",
+		"valid": true
+	}
+]

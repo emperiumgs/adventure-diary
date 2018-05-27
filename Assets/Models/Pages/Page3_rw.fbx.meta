@@ -1,0 +1,1634 @@
+fileFormatVersion: 2
+guid: c5529cbb92e9d304790efadddcccf091
+timeCreated: 1480866361
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cactus3
+    100002: Cactus4
+    100004: fadsfa
+    100006: group1
+    100008: group2
+    100010: joint121
+    100012: joint122
+    100014: joint123
+    100016: joint124
+    100018: joint125
+    100020: joint126
+    100022: joint127
+    100024: joint128
+    100026: joint129
+    100028: joint130
+    100030: joint131
+    100032: joint132
+    100034: joint133
+    100036: joint134
+    100038: joint173
+    100040: joint174
+    100042: joint175
+    100044: joint176
+    100046: joint177
+    100048: joint178
+    100050: joint179
+    100052: joint180
+    100054: joint181
+    100056: joint182
+    100058: joint183
+    100060: joint184
+    100062: joint185
+    100064: joint194
+    100066: joint195
+    100068: joint196
+    100070: joint197
+    100072: joint198
+    100074: joint199
+    100076: joint200
+    100078: joint201
+    100080: joint202
+    100082: joint203
+    100084: joint204
+    100086: joint205
+    100088: joint206
+    100090: joint207
+    100092: joint208
+    100094: joint209
+    100096: joint210
+    100098: joint211
+    100100: joint212
+    100102: joint214
+    100104: joint216
+    100106: joint217
+    100108: joint218
+    100110: joint220
+    100112: joint223
+    100114: joint224
+    100116: joint225
+    100118: joint226
+    100120: joint227
+    100122: joint228
+    100124: joint229
+    100126: joint230
+    100128: joint231
+    100130: joint252
+    100132: joint253
+    100134: joint254
+    100136: joint255
+    100138: joint256
+    100140: joint5
+    100142: joint6
+    100144: joint7
+    100146: joint8
+    100148: joint9
+    100150: nurbsCircle5
+    100152: //RootNode
+    100154: PageLeft1
+    100156: PageRight1
+    100158: pCube104
+    100160: pCube105
+    100162: pCube106
+    100164: pCube107
+    100166: pCube108
+    100168: pCube109
+    100170: pCube110
+    100172: pCube37
+    100174: pCube38
+    100176: pCube69
+    100178: pCube70
+    100180: pCube71
+    100182: pCube72
+    100184: pCube73
+    100186: pCube74
+    100188: pCube75
+    100190: pCube76
+    100192: pCube77
+    100194: pCube78
+    100196: pCube79
+    100198: pCube82
+    100200: pCube83
+    100202: pCube84
+    100204: pCube89
+    100206: pCube90
+    100208: pCube91
+    100210: pCube93
+    100212: pCube94
+    100214: pCube95
+    100216: pCube96
+    100218: pCylinder12
+    100220: pCylinder14
+    100222: pCylinder16
+    100224: pCylinder17
+    100226: pCylinder18
+    100228: polySurface165
+    100230: polySurface411
+    100232: polySurface412
+    100234: polySurface413
+    100236: polySurface414
+    100238: polySurface415
+    100240: polySurface416
+    100242: polySurface417
+    100244: polySurface418
+    100246: polySurface419
+    100248: polySurface420
+    100250: polySurface421
+    100252: polySurface422
+    100254: polySurface423
+    100256: polySurface424
+    100258: polySurface77
+    100260: polySurface82
+    100262: pPlane145
+    100264: pPlane205
+    100266: pPlane206
+    100268: pPlane216
+    100270: pPlane221
+    100272: pPlane222
+    100274: pPlane223
+    100276: pPlane224
+    100278: pPlane225
+    100280: pPlane226
+    100282: pPlane227
+    100284: pPlane229
+    100286: pPlane230
+    100288: pPlane231
+    100290: pPlane232
+    100292: pPlane239
+    100294: shiy
+    100296: transform238
+    100298: transform239
+    100300: transform240
+    100302: transform241
+    100304: transform242
+    100306: transform243
+    100308: transform244
+    100310: transform245
+    100312: transform246
+    100314: transform247
+    100316: transform248
+    100318: transform249
+    100320: transform250
+    100322: transform251
+    100324: transform486
+    100326: transform487
+    100328: victoria_regia1
+    100330: victoria_regia2
+    100332: victoria_regia3
+    100334: victoria_regia4
+    100336: victoria_regia5
+    400000: Cactus3
+    400002: Cactus4
+    400004: fadsfa
+    400006: group1
+    400008: group2
+    400010: joint121
+    400012: joint122
+    400014: joint123
+    400016: joint124
+    400018: joint125
+    400020: joint126
+    400022: joint127
+    400024: joint128
+    400026: joint129
+    400028: joint130
+    400030: joint131
+    400032: joint132
+    400034: joint133
+    400036: joint134
+    400038: joint173
+    400040: joint174
+    400042: joint175
+    400044: joint176
+    400046: joint177
+    400048: joint178
+    400050: joint179
+    400052: joint180
+    400054: joint181
+    400056: joint182
+    400058: joint183
+    400060: joint184
+    400062: joint185
+    400064: joint194
+    400066: joint195
+    400068: joint196
+    400070: joint197
+    400072: joint198
+    400074: joint199
+    400076: joint200
+    400078: joint201
+    400080: joint202
+    400082: joint203
+    400084: joint204
+    400086: joint205
+    400088: joint206
+    400090: joint207
+    400092: joint208
+    400094: joint209
+    400096: joint210
+    400098: joint211
+    400100: joint212
+    400102: joint214
+    400104: joint216
+    400106: joint217
+    400108: joint218
+    400110: joint220
+    400112: joint223
+    400114: joint224
+    400116: joint225
+    400118: joint226
+    400120: joint227
+    400122: joint228
+    400124: joint229
+    400126: joint230
+    400128: joint231
+    400130: joint252
+    400132: joint253
+    400134: joint254
+    400136: joint255
+    400138: joint256
+    400140: joint5
+    400142: joint6
+    400144: joint7
+    400146: joint8
+    400148: joint9
+    400150: nurbsCircle5
+    400152: //RootNode
+    400154: PageLeft1
+    400156: PageRight1
+    400158: pCube104
+    400160: pCube105
+    400162: pCube106
+    400164: pCube107
+    400166: pCube108
+    400168: pCube109
+    400170: pCube110
+    400172: pCube37
+    400174: pCube38
+    400176: pCube69
+    400178: pCube70
+    400180: pCube71
+    400182: pCube72
+    400184: pCube73
+    400186: pCube74
+    400188: pCube75
+    400190: pCube76
+    400192: pCube77
+    400194: pCube78
+    400196: pCube79
+    400198: pCube82
+    400200: pCube83
+    400202: pCube84
+    400204: pCube89
+    400206: pCube90
+    400208: pCube91
+    400210: pCube93
+    400212: pCube94
+    400214: pCube95
+    400216: pCube96
+    400218: pCylinder12
+    400220: pCylinder14
+    400222: pCylinder16
+    400224: pCylinder17
+    400226: pCylinder18
+    400228: polySurface165
+    400230: polySurface411
+    400232: polySurface412
+    400234: polySurface413
+    400236: polySurface414
+    400238: polySurface415
+    400240: polySurface416
+    400242: polySurface417
+    400244: polySurface418
+    400246: polySurface419
+    400248: polySurface420
+    400250: polySurface421
+    400252: polySurface422
+    400254: polySurface423
+    400256: polySurface424
+    400258: polySurface77
+    400260: polySurface82
+    400262: pPlane145
+    400264: pPlane205
+    400266: pPlane206
+    400268: pPlane216
+    400270: pPlane221
+    400272: pPlane222
+    400274: pPlane223
+    400276: pPlane224
+    400278: pPlane225
+    400280: pPlane226
+    400282: pPlane227
+    400284: pPlane229
+    400286: pPlane230
+    400288: pPlane231
+    400290: pPlane232
+    400292: pPlane239
+    400294: shiy
+    400296: transform238
+    400298: transform239
+    400300: transform240
+    400302: transform241
+    400304: transform242
+    400306: transform243
+    400308: transform244
+    400310: transform245
+    400312: transform246
+    400314: transform247
+    400316: transform248
+    400318: transform249
+    400320: transform250
+    400322: transform251
+    400324: transform486
+    400326: transform487
+    400328: victoria_regia1
+    400330: victoria_regia2
+    400332: victoria_regia3
+    400334: victoria_regia4
+    400336: victoria_regia5
+    2300000: pCube106
+    2300002: pCube38
+    2300004: pCylinder14
+    3300000: pCube106
+    3300002: pCube38
+    3300004: pCylinder14
+    4300000: PageLeft1
+    4300002: PageRight1
+    4300004: pPlane145
+    4300006: victoria_regia1
+    4300008: victoria_regia2
+    4300010: victoria_regia3
+    4300012: victoria_regia4
+    4300014: victoria_regia5
+    4300016: pCube37
+    4300018: pCylinder12
+    4300020: polySurface77
+    4300022: polySurface82
+    4300024: Cactus3
+    4300026: Cactus4
+    4300028: pCube38
+    4300030: pCube69
+    4300032: pCube70
+    4300034: pCube71
+    4300036: pCube72
+    4300038: pCube73
+    4300040: fadsfa
+    4300042: shiy
+    4300044: pCube75
+    4300046: pCube76
+    4300048: pCube77
+    4300050: pCube78
+    4300052: pCube79
+    4300054: pCube82
+    4300056: pCube83
+    4300058: pCube84
+    4300060: pCylinder14
+    4300062: pCylinder16
+    4300064: pCylinder17
+    4300066: pCylinder18
+    4300068: pPlane205
+    4300070: polySurface165
+    4300072: pPlane206
+    4300074: pCube89
+    4300076: pCube90
+    4300078: pCube91
+    4300080: polySurface411
+    4300082: polySurface412
+    4300084: polySurface413
+    4300086: polySurface414
+    4300088: polySurface415
+    4300090: polySurface416
+    4300092: polySurface417
+    4300094: polySurface418
+    4300096: polySurface419
+    4300098: polySurface420
+    4300100: polySurface421
+    4300102: polySurface422
+    4300104: polySurface423
+    4300106: polySurface424
+    4300108: pCube105
+    4300110: pCube106
+    4300112: pCube107
+    4300114: pCube108
+    4300116: pCube109
+    4300118: pCube110
+    7400000: Page3_rw@Open
+    7400002: Page3_rw@Close
+    7400004: Page3_rw@Idle
+    9500000: //RootNode
+    13700000: Cactus3
+    13700002: Cactus4
+    13700004: fadsfa
+    13700006: PageLeft1
+    13700008: PageRight1
+    13700010: pCube105
+    13700012: pCube107
+    13700014: pCube108
+    13700016: pCube109
+    13700018: pCube110
+    13700020: pCube37
+    13700022: pCube69
+    13700024: pCube70
+    13700026: pCube71
+    13700028: pCube72
+    13700030: pCube73
+    13700032: pCube75
+    13700034: pCube76
+    13700036: pCube77
+    13700038: pCube78
+    13700040: pCube79
+    13700042: pCube82
+    13700044: pCube83
+    13700046: pCube84
+    13700048: pCube89
+    13700050: pCube90
+    13700052: pCube91
+    13700054: pCylinder12
+    13700056: pCylinder16
+    13700058: pCylinder17
+    13700060: pCylinder18
+    13700062: polySurface165
+    13700064: polySurface411
+    13700066: polySurface412
+    13700068: polySurface413
+    13700070: polySurface414
+    13700072: polySurface415
+    13700074: polySurface416
+    13700076: polySurface417
+    13700078: polySurface418
+    13700080: polySurface419
+    13700082: polySurface420
+    13700084: polySurface421
+    13700086: polySurface422
+    13700088: polySurface423
+    13700090: polySurface424
+    13700092: polySurface77
+    13700094: polySurface82
+    13700096: pPlane145
+    13700098: pPlane205
+    13700100: pPlane206
+    13700102: shiy
+    13700104: victoria_regia1
+    13700106: victoria_regia2
+    13700108: victoria_regia3
+    13700110: victoria_regia4
+    13700112: victoria_regia5
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Page3_rw@Open
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cactus3
+        weight: 1
+      - path: Cactus4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/PageLeft1
+        weight: 1
+      - path: group1/PageRight1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/nurbsCircle5
+        weight: 1
+      - path: group2/nurbsCircle5/joint5
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint123
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint124
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint125
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint126
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint127
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint128
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint129
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint130
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint131
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132/joint198
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132/joint198/joint220
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint133
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint179
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint180
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint181
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint182
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint183
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint184
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint185
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint199
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint200
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint201
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint202
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint203
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint204
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint205
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint206
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint207
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint208
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223/joint225
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223/joint226
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224/joint227
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224/joint228
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint121
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint122
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint134
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint173
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint174
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint175
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint176
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint177
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint178
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint209
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint210
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint211
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint212
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint214
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint216
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint217
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint218
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint229
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint230
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint231
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint252
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint253
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint254
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint255
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint256
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint194
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint194/joint195
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint196
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint196/joint197
+        weight: 1
+      - path: pCube37
+        weight: 1
+      - path: pCube38
+        weight: 1
+      - path: pCube69
+        weight: 1
+      - path: pCube70
+        weight: 1
+      - path: pCube71
+        weight: 1
+      - path: pCube72
+        weight: 1
+      - path: pCube73
+        weight: 1
+      - path: pCube74
+        weight: 1
+      - path: pCube74/fadsfa
+        weight: 1
+      - path: pCube74/shiy
+        weight: 1
+      - path: pCube75
+        weight: 1
+      - path: pCube76
+        weight: 1
+      - path: pCube77
+        weight: 1
+      - path: pCube78
+        weight: 1
+      - path: pCube79
+        weight: 1
+      - path: pCube82
+        weight: 1
+      - path: pCube83
+        weight: 1
+      - path: pCube84
+        weight: 1
+      - path: pCube89
+        weight: 1
+      - path: pCube90
+        weight: 1
+      - path: pCube91
+        weight: 1
+      - path: pCube93
+        weight: 1
+      - path: pCube93/transform249
+        weight: 1
+      - path: pCube94
+        weight: 1
+      - path: pCube94/transform251
+        weight: 1
+      - path: pCube95
+        weight: 1
+      - path: pCube96
+        weight: 1
+      - path: pCube104
+        weight: 1
+      - path: pCube104/transform487
+        weight: 1
+      - path: pCube105
+        weight: 1
+      - path: pCube106
+        weight: 1
+      - path: pCube107
+        weight: 1
+      - path: pCube108
+        weight: 1
+      - path: pCube109
+        weight: 1
+      - path: pCube110
+        weight: 1
+      - path: pCylinder12
+        weight: 1
+      - path: pCylinder14
+        weight: 1
+      - path: pCylinder16
+        weight: 1
+      - path: pCylinder17
+        weight: 1
+      - path: pCylinder18
+        weight: 1
+      - path: polySurface77
+        weight: 1
+      - path: polySurface82
+        weight: 1
+      - path: polySurface165
+        weight: 1
+      - path: polySurface411
+        weight: 1
+      - path: polySurface412
+        weight: 1
+      - path: polySurface413
+        weight: 1
+      - path: polySurface414
+        weight: 1
+      - path: polySurface415
+        weight: 1
+      - path: polySurface416
+        weight: 1
+      - path: polySurface417
+        weight: 1
+      - path: polySurface418
+        weight: 1
+      - path: polySurface419
+        weight: 1
+      - path: polySurface420
+        weight: 1
+      - path: polySurface421
+        weight: 1
+      - path: polySurface422
+        weight: 1
+      - path: polySurface423
+        weight: 1
+      - path: polySurface424
+        weight: 1
+      - path: pPlane145
+        weight: 1
+      - path: pPlane205
+        weight: 1
+      - path: pPlane206
+        weight: 1
+      - path: pPlane216
+        weight: 1
+      - path: pPlane216/transform239
+        weight: 1
+      - path: pPlane221
+        weight: 1
+      - path: pPlane221/transform238
+        weight: 1
+      - path: pPlane222
+        weight: 1
+      - path: pPlane222/transform246
+        weight: 1
+      - path: pPlane223
+        weight: 1
+      - path: pPlane223/transform241
+        weight: 1
+      - path: pPlane224
+        weight: 1
+      - path: pPlane224/transform243
+        weight: 1
+      - path: pPlane225
+        weight: 1
+      - path: pPlane225/transform242
+        weight: 1
+      - path: pPlane226
+        weight: 1
+      - path: pPlane226/transform245
+        weight: 1
+      - path: pPlane227
+        weight: 1
+      - path: pPlane227/transform244
+        weight: 1
+      - path: pPlane229
+        weight: 1
+      - path: pPlane229/transform240
+        weight: 1
+      - path: pPlane230
+        weight: 1
+      - path: pPlane230/transform247
+        weight: 1
+      - path: pPlane231
+        weight: 1
+      - path: pPlane231/transform250
+        weight: 1
+      - path: pPlane232
+        weight: 1
+      - path: pPlane232/transform248
+        weight: 1
+      - path: pPlane239
+        weight: 1
+      - path: pPlane239/transform486
+        weight: 1
+      - path: victoria_regia1
+        weight: 1
+      - path: victoria_regia2
+        weight: 1
+      - path: victoria_regia3
+        weight: 1
+      - path: victoria_regia4
+        weight: 1
+      - path: victoria_regia5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Page3_rw@Close
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cactus3
+        weight: 1
+      - path: Cactus4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/PageLeft1
+        weight: 1
+      - path: group1/PageRight1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/nurbsCircle5
+        weight: 1
+      - path: group2/nurbsCircle5/joint5
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint123
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint124
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint125
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint126
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint127
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint128
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint129
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint130
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint131
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132/joint198
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132/joint198/joint220
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint133
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint179
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint180
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint181
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint182
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint183
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint184
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint185
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint199
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint200
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint201
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint202
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint203
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint204
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint205
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint206
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint207
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint208
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223/joint225
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223/joint226
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224/joint227
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224/joint228
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint121
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint122
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint134
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint173
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint174
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint175
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint176
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint177
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint178
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint209
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint210
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint211
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint212
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint214
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint216
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint217
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint218
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint229
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint230
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint231
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint252
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint253
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint254
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint255
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint256
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint194
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint194/joint195
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint196
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint196/joint197
+        weight: 1
+      - path: pCube37
+        weight: 1
+      - path: pCube38
+        weight: 1
+      - path: pCube69
+        weight: 1
+      - path: pCube70
+        weight: 1
+      - path: pCube71
+        weight: 1
+      - path: pCube72
+        weight: 1
+      - path: pCube73
+        weight: 1
+      - path: pCube74
+        weight: 1
+      - path: pCube74/fadsfa
+        weight: 1
+      - path: pCube74/shiy
+        weight: 1
+      - path: pCube75
+        weight: 1
+      - path: pCube76
+        weight: 1
+      - path: pCube77
+        weight: 1
+      - path: pCube78
+        weight: 1
+      - path: pCube79
+        weight: 1
+      - path: pCube82
+        weight: 1
+      - path: pCube83
+        weight: 1
+      - path: pCube84
+        weight: 1
+      - path: pCube89
+        weight: 1
+      - path: pCube90
+        weight: 1
+      - path: pCube91
+        weight: 1
+      - path: pCube93
+        weight: 1
+      - path: pCube93/transform249
+        weight: 1
+      - path: pCube94
+        weight: 1
+      - path: pCube94/transform251
+        weight: 1
+      - path: pCube95
+        weight: 1
+      - path: pCube96
+        weight: 1
+      - path: pCube104
+        weight: 1
+      - path: pCube104/transform487
+        weight: 1
+      - path: pCube105
+        weight: 1
+      - path: pCube106
+        weight: 1
+      - path: pCube107
+        weight: 1
+      - path: pCube108
+        weight: 1
+      - path: pCube109
+        weight: 1
+      - path: pCube110
+        weight: 1
+      - path: pCylinder12
+        weight: 1
+      - path: pCylinder14
+        weight: 1
+      - path: pCylinder16
+        weight: 1
+      - path: pCylinder17
+        weight: 1
+      - path: pCylinder18
+        weight: 1
+      - path: polySurface77
+        weight: 1
+      - path: polySurface82
+        weight: 1
+      - path: polySurface165
+        weight: 1
+      - path: polySurface411
+        weight: 1
+      - path: polySurface412
+        weight: 1
+      - path: polySurface413
+        weight: 1
+      - path: polySurface414
+        weight: 1
+      - path: polySurface415
+        weight: 1
+      - path: polySurface416
+        weight: 1
+      - path: polySurface417
+        weight: 1
+      - path: polySurface418
+        weight: 1
+      - path: polySurface419
+        weight: 1
+      - path: polySurface420
+        weight: 1
+      - path: polySurface421
+        weight: 1
+      - path: polySurface422
+        weight: 1
+      - path: polySurface423
+        weight: 1
+      - path: polySurface424
+        weight: 1
+      - path: pPlane145
+        weight: 1
+      - path: pPlane205
+        weight: 1
+      - path: pPlane206
+        weight: 1
+      - path: pPlane216
+        weight: 1
+      - path: pPlane216/transform239
+        weight: 1
+      - path: pPlane221
+        weight: 1
+      - path: pPlane221/transform238
+        weight: 1
+      - path: pPlane222
+        weight: 1
+      - path: pPlane222/transform246
+        weight: 1
+      - path: pPlane223
+        weight: 1
+      - path: pPlane223/transform241
+        weight: 1
+      - path: pPlane224
+        weight: 1
+      - path: pPlane224/transform243
+        weight: 1
+      - path: pPlane225
+        weight: 1
+      - path: pPlane225/transform242
+        weight: 1
+      - path: pPlane226
+        weight: 1
+      - path: pPlane226/transform245
+        weight: 1
+      - path: pPlane227
+        weight: 1
+      - path: pPlane227/transform244
+        weight: 1
+      - path: pPlane229
+        weight: 1
+      - path: pPlane229/transform240
+        weight: 1
+      - path: pPlane230
+        weight: 1
+      - path: pPlane230/transform247
+        weight: 1
+      - path: pPlane231
+        weight: 1
+      - path: pPlane231/transform250
+        weight: 1
+      - path: pPlane232
+        weight: 1
+      - path: pPlane232/transform248
+        weight: 1
+      - path: pPlane239
+        weight: 1
+      - path: pPlane239/transform486
+        weight: 1
+      - path: victoria_regia1
+        weight: 1
+      - path: victoria_regia2
+        weight: 1
+      - path: victoria_regia3
+        weight: 1
+      - path: victoria_regia4
+        weight: 1
+      - path: victoria_regia5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Page3_rw@Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cactus3
+        weight: 1
+      - path: Cactus4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/PageLeft1
+        weight: 1
+      - path: group1/PageRight1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/nurbsCircle5
+        weight: 1
+      - path: group2/nurbsCircle5/joint5
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint123
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint124
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint125
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint126
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint127
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint128
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint129
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint130
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint131
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132/joint198
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint132/joint198/joint220
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint133
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint179
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint180
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint181
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint182
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint183
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint184
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint185
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint199
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint200
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint201
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint202
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint203
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint204
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint205
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint206
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint207
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint208
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223/joint225
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint223/joint226
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224/joint227
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint6/joint7/joint224/joint228
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint121
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint122
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint134
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint173
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint174
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint175
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint176
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint177
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint178
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint209
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint210
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint211
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint212
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint214
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint216
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint217
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint218
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint229
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint230
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint231
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint252
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint253
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint254
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint255
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint8/joint9/joint256
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint194
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint194/joint195
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint196
+        weight: 1
+      - path: group2/nurbsCircle5/joint5/joint196/joint197
+        weight: 1
+      - path: pCube37
+        weight: 1
+      - path: pCube38
+        weight: 1
+      - path: pCube69
+        weight: 1
+      - path: pCube70
+        weight: 1
+      - path: pCube71
+        weight: 1
+      - path: pCube72
+        weight: 1
+      - path: pCube73
+        weight: 1
+      - path: pCube74
+        weight: 1
+      - path: pCube74/fadsfa
+        weight: 1
+      - path: pCube74/shiy
+        weight: 1
+      - path: pCube75
+        weight: 1
+      - path: pCube76
+        weight: 1
+      - path: pCube77
+        weight: 1
+      - path: pCube78
+        weight: 1
+      - path: pCube79
+        weight: 1
+      - path: pCube82
+        weight: 1
+      - path: pCube83
+        weight: 1
+      - path: pCube84
+        weight: 1
+      - path: pCube89
+        weight: 1
+      - path: pCube90
+        weight: 1
+      - path: pCube91
+        weight: 1
+      - path: pCube93
+        weight: 1
+      - path: pCube93/transform249
+        weight: 1
+      - path: pCube94
+        weight: 1
+      - path: pCube94/transform251
+        weight: 1
+      - path: pCube95
+        weight: 1
+      - path: pCube96
+        weight: 1
+      - path: pCube104
+        weight: 1
+      - path: pCube104/transform487
+        weight: 1
+      - path: pCube105
+        weight: 1
+      - path: pCube106
+        weight: 1
+      - path: pCube107
+        weight: 1
+      - path: pCube108
+        weight: 1
+      - path: pCube109
+        weight: 1
+      - path: pCube110
+        weight: 1
+      - path: pCylinder12
+        weight: 1
+      - path: pCylinder14
+        weight: 1
+      - path: pCylinder16
+        weight: 1
+      - path: pCylinder17
+        weight: 1
+      - path: pCylinder18
+        weight: 1
+      - path: polySurface77
+        weight: 1
+      - path: polySurface82
+        weight: 1
+      - path: polySurface165
+        weight: 1
+      - path: polySurface411
+        weight: 1
+      - path: polySurface412
+        weight: 1
+      - path: polySurface413
+        weight: 1
+      - path: polySurface414
+        weight: 1
+      - path: polySurface415
+        weight: 1
+      - path: polySurface416
+        weight: 1
+      - path: polySurface417
+        weight: 1
+      - path: polySurface418
+        weight: 1
+      - path: polySurface419
+        weight: 1
+      - path: polySurface420
+        weight: 1
+      - path: polySurface421
+        weight: 1
+      - path: polySurface422
+        weight: 1
+      - path: polySurface423
+        weight: 1
+      - path: polySurface424
+        weight: 1
+      - path: pPlane145
+        weight: 1
+      - path: pPlane205
+        weight: 1
+      - path: pPlane206
+        weight: 1
+      - path: pPlane216
+        weight: 1
+      - path: pPlane216/transform239
+        weight: 1
+      - path: pPlane221
+        weight: 1
+      - path: pPlane221/transform238
+        weight: 1
+      - path: pPlane222
+        weight: 1
+      - path: pPlane222/transform246
+        weight: 1
+      - path: pPlane223
+        weight: 1
+      - path: pPlane223/transform241
+        weight: 1
+      - path: pPlane224
+        weight: 1
+      - path: pPlane224/transform243
+        weight: 1
+      - path: pPlane225
+        weight: 1
+      - path: pPlane225/transform242
+        weight: 1
+      - path: pPlane226
+        weight: 1
+      - path: pPlane226/transform245
+        weight: 1
+      - path: pPlane227
+        weight: 1
+      - path: pPlane227/transform244
+        weight: 1
+      - path: pPlane229
+        weight: 1
+      - path: pPlane229/transform240
+        weight: 1
+      - path: pPlane230
+        weight: 1
+      - path: pPlane230/transform247
+        weight: 1
+      - path: pPlane231
+        weight: 1
+      - path: pPlane231/transform250
+        weight: 1
+      - path: pPlane232
+        weight: 1
+      - path: pPlane232/transform248
+        weight: 1
+      - path: pPlane239
+        weight: 1
+      - path: pPlane239/transform486
+        weight: 1
+      - path: victoria_regia1
+        weight: 1
+      - path: victoria_regia2
+        weight: 1
+      - path: victoria_regia3
+        weight: 1
+      - path: victoria_regia4
+        weight: 1
+      - path: victoria_regia5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

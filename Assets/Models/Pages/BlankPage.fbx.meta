@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: d84d697585974d44aaf74cd40ae1fc92
+timeCreated: 1480728175
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: livro:group1
+    100004: livro:joint5
+    100006: livro:joint6
+    100008: livro:joint7
+    100010: livro:joint8
+    100012: livro:joint9
+    100014: livro:nurbsCircle2
+    100016: livro:polySurface19
+    100018: livro:polySurface6
+    400000: //RootNode
+    400002: livro:group1
+    400004: livro:joint5
+    400006: livro:joint6
+    400008: livro:joint7
+    400010: livro:joint8
+    400012: livro:joint9
+    400014: livro:nurbsCircle2
+    400016: livro:polySurface19
+    400018: livro:polySurface6
+    4300000: livro:polySurface6
+    4300002: livro:polySurface19
+    7400000: Page@Open
+    7400002: Page@Close
+    7400004: Page@Opened
+    7400006: Page@Idle
+    9500000: //RootNode
+    13700000: livro:polySurface19
+    13700002: livro:polySurface6
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Page@Open
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: livro:group1
+        weight: 1
+      - path: livro:group1/livro:polySurface6
+        weight: 1
+      - path: livro:group1/livro:polySurface19
+        weight: 1
+      - path: livro:nurbsCircle2
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6/livro:joint7
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8/livro:joint9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Page@Close
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: livro:group1
+        weight: 1
+      - path: livro:group1/livro:polySurface6
+        weight: 1
+      - path: livro:group1/livro:polySurface19
+        weight: 1
+      - path: livro:nurbsCircle2
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6/livro:joint7
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8/livro:joint9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Page@Opened
+      takeName: Take 001
+      firstFrame: 119
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: livro:group1
+        weight: 1
+      - path: livro:group1/livro:polySurface6
+        weight: 1
+      - path: livro:group1/livro:polySurface19
+        weight: 1
+      - path: livro:nurbsCircle2
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6/livro:joint7
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8/livro:joint9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Page@Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: livro:group1
+        weight: 1
+      - path: livro:group1/livro:polySurface6
+        weight: 1
+      - path: livro:group1/livro:polySurface19
+        weight: 1
+      - path: livro:nurbsCircle2
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint6/livro:joint7
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8
+        weight: 1
+      - path: livro:nurbsCircle2/livro:joint5/livro:joint8/livro:joint9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

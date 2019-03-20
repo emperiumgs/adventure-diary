@@ -11,6 +11,6 @@ The whole experience happens inside the book, where the pages have the board til
 ## Team
 
 - Game Designer/2D Artist: Anderson Verissimo
-- Game Developer: Joao Borks
+- Game Developer: [Joao Borks](https://github.com/JoaoBorks)
 - 3D Artist: Ronaldo Junior
 - Sound Designer: Luiza Aguiar

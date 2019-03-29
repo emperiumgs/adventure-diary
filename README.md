@@ -10,7 +10,7 @@ The whole experience happens inside the book, where the pages have the board til
 
 ## Team
 
-- Game Designer/2D Artist: Anderson Verissimo
+- Game Designer/2D Artist: [Anderson Verissimo](https://github.com/AndersonVr)
 - Game Developer: [Joao Borks](https://github.com/JoaoBorks)
 - 3D Artist: Ronaldo Junior
 - Sound Designer: [Luiza Aguiar](https://github.com/aguiar-luiza)
